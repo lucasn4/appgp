@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import Appprincipal from './App.js';
+import Appprincipal from '../App.js';
 import Header from './Header.js';
 import CuerpoPrincipal from './CuerpoPrincipal.js';
 import Ofertas from './Ofertas.js';
