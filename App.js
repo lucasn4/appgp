@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
-import CuerpoPrincipal from './CuerpoPrincipal';
-import Header from './Header';
+import CuerpoPrincipal from './components/CuerpoPrincipal.js';
+import Header from './components/Header';
 
 export default function App() {
   return (
